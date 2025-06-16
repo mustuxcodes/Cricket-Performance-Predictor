@@ -19,6 +19,12 @@ This project uses machine learning to predict the performance of cricket players
 git clone https://github.com/yourusername/cricket-player-performance-predictor.git
 
 Install required libraries:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
 Checked the first line the librarier are mentioned there.
 
 If you need any further you can dm me ::)
